@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AuthEditor.qml</file>
+        <file>BodyEditor.qml</file>
+        <file>HeaderRow.qml</file>
+        <file>HeadersEditor.qml</file>
+        <file>main.qml</file>
+        <file>QueryEditor.qml</file>
+        <file>QueryParamRow.qml</file>
+        <file>RequestBuilder.qml</file>
+        <file>ResponseViewer.qml</file>
+        <file>ExportDialog.qml</file>
+    </qresource>
+</RCC>
