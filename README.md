@@ -107,15 +107,6 @@ Project Structure
 - proto/          - Protocol buffer definitions
 - cmake/          - CMake configuration files
 
-License
--------
-[Your chosen license]
-
-Contributing
------------
-Contributions are welcome! Please feel free to submit pull requests.
-
-
 TESTING WEBSOCKET
 For testing WebSocket connections, there are several publicly available WebSocket echo servers and testing services that you can use. These services allow you to connect, send messages, and receive responses, making them ideal for testing and debugging WebSocket clients. Here are some popular options:
 
@@ -356,11 +347,6 @@ For quick testing, start with these services:
 - **grpcb.in** - Public gRPC testing service.
 - **Evans** - CLI tool for interacting with gRPC servers.
 - **BloomRPC** - GUI client for testing gRPC services.
-
-For more advanced testing, use:
-- **Postman** - Supports gRPC for testing and debugging.
-- **gRPCurl** - Command-line tool for interacting with gRPC servers.
-
 If you need full control, set up a local gRPC server using tools like **grpc-go**, **grpc-java**, or **grpc-node**. For real-world data, explore public gRPC APIs like **Google APIs** or **etcd**.
 
 
